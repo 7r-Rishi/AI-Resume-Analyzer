@@ -26,8 +26,8 @@
   </h4>
   <p>
     <small align="justify">
-      Built with 🤍 by 
-      <a href="https://dnoobnerd.netlify.app/">Deepak Padhi</a> through 
+      Built with 🤍 by Hrishikesh Sawant
+      <a href="https://dnoobnerd.netlify.app/">Hrishikesh Sawant</a> through 
       <a href="https://www.linkedin.com/in/mrbriit/">Dr Bright --(Data Scientist)</a>
      </small>
   </p>
